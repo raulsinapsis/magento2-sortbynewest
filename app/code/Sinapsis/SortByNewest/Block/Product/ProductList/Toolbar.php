@@ -1,6 +1,6 @@
 <?php
 
-namespace Sinapsis\SortByNewest\Plugin\Product\ProductList;
+namespace Sinapsis\SortByNewest\Block\Product\ProductList;
 
 use Magento\Catalog\Block\Product\ProductList\Toolbar as MagentoToolbar;
 
